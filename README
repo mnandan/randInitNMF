@@ -1,0 +1,5 @@
+Fast NMF solver: version 0
+--------------------
+
+Find non-negative factors W and H, of a non-negative matrix F so that || F - WH || (frobineus norm) is minimized. A new algorithm similar to the algorithm used in Nandan et al. 2014 (JMLR) is used.
+
